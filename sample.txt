@@ -1,0 +1,3 @@
+Python is simple and powerful.
+Python is popular for programming.
+Programming improves problem solving.
