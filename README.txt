@@ -1,17 +1,28 @@
-REGULAR EXPRESSION - ALL PROGRAMS
+MATPLOTLIB GRAPHS - PYTHON PRACTICALS
 
-Contains separate Python files for all 26 questions from regular-expression.docx.
+This folder contains 15 separate Python programs:
+1. Line graph
+2. Bar graph
+3. Horizontal bar graph
+4. Scatter plot
+5. Pie chart
+6. Histogram
+7. Box plot
+8. Area graph
+9. Multiple line graph
+10. Step graph
+11. Stem plot
+12. Heatmap
+13. Stack plot
+14. Error bar graph
+15. Subplots (multiple graphs in one window)
 
-How to run:
+HOW TO RUN:
 1. Install Python.
-2. Open a terminal or command prompt in this folder.
-3. Run a program, for example: python Q01_extract_digits.py
-4. Enter the requested input when prompted.
+2. Open Command Prompt or terminal.
+3. Install the libraries:
+   pip install matplotlib numpy
+4. Open this folder in your editor.
+5. Run any .py file separately.
 
-These programs use Python's built-in re module, so no extra package installation is required.
-
-Note:
-- Q13 checks the DD-MM-YYYY pattern, but does not validate every calendar date.
-- Q12 checks a reasonable email format, not whether the email address exists.
-- Q19 checks a common registration pattern, not official registration status.
-- Q23 demonstrates a basic regex approach and explains its limitations with Python strings/comments.
+Each program opens its graph in a separate window.
